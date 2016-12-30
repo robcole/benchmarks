@@ -1,0 +1,5 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+PopBench	drop		500000	3595325
+PopBench	reverse		500000	3434338
+PopBench	take		100000	1495150
